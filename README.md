@@ -80,13 +80,14 @@ Tuần 1:
 
 -> Kiểm tra trạng thái: git status
 
--> Thêm địa chỉ repository GitHub: git remote add origin https://github.com/your-username/your-repository.git
+-> Thêm địa chỉ repository GitHub: git remote add origin https://github.com/....
 
 -> Commit các thay đổi: git commit -m "Initial commit"
 
 -> Đẩy dự án lên GitHub: git branch -M main, git push -u origin main
 
--> clone dự án có sẵn về máy: git clone https://github.com/be1tui/PHPLaravel
+-> clone dự án có sẵn về máy: git clone https://github.com/...
+
 +) Xây dựng project mẫu với form thêm/sửa/xóa 1 sinh viên
 
 5. Tìm hiểu cách hoạt động của request
